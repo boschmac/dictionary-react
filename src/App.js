@@ -14,7 +14,7 @@ function App() {
         <Dictionary />
       </main>
       <footer className="App-footer">
-        <small>Coded by Corinne Long</small>
+        <small>Coded by Corinne Long <a href="https://github.com/boschmac/dictionary-react">open-sourced on GitHub</a></small>
       </footer>
     </div>
     </div>
