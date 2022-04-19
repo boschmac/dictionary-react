@@ -3,3 +3,9 @@
   text-align: center;
   font-size: 60px;
 }
+
+.App {
+  background-color: #edf7fa;
+  max-width: 950px;
+  margin: 0 auto;
+}
